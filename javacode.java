@@ -21,8 +21,8 @@ public class LoginSystem {
 
     public static void main(String[] args) {
         // Hardcoded username and password
-        String correctUsername = "admin";
-        String correctPassword = "12345";
+        String correctUsername = "admin1";
+        String correctPassword = "12345454455";
 
         Scanner scanner = new Scanner(System.in);
 
