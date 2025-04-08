@@ -1,6 +1,8 @@
-user Data
-contact Name:
+User Data
+Contact Name:
 Email Address:
 Qualification
 Location
 Pin code
+State
+Country
